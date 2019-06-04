@@ -1,4 +1,5 @@
 # SRRR
+We provide Matlab and R scripts of the proposed ESPRESSO algorithm for solving the SRRR formulation.
 
 * "Sparse Reduced Rank Regression with Nonconvex Regularization"  
 Ziping Zhao and Daniel P. Palomar  
